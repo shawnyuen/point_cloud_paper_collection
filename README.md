@@ -3,3 +3,30 @@
 ## 2017
 ### PointNet Deep Learning on Point Sets for 3D Classification and Segmentation CVPR 2017 [[arXiv paper]](https://arxiv.org/abs/1612.00593)
 ### PointNet++ Deep Hierarchical Feature Learning on Point Sets in a Metric Space NIPS 2017 [[arXiv paper]](https://arxiv.org/abs/1706.02413)
+
+## 2018
+### Mining Point Cloud Local Structures by Kernel Correlation and Graph Pooling CVPR 2018 [[paper]]()
+### Monte Carlo Convolution for Learning on Non-uniformly Sampled Point Clouds ACM TOG 2018 [[paper]]()
+### Local Spectral Graph Convolution for Point Set Feature Learning ECCV 2018 [[paper]]() [[TensorFlow code]](https://github.com/fate3439/LocalSpecGCN)
+### Point Convolutional Neural Networks by Extension Operators ACM TOG 2018 [[paper]]()
+### PointCNN Convolution On X-Transformed Points NIPS 2018 [[paper]]()
+### PointSIFT A SIFT-like Network Module for 3D Point Cloud Semantic Segmentation arXiv 2018 [[paper]]()
+### Pointwise Convolutional Neural Networks CVPR 2018 [[paper]]()
+### PU-Net Point Cloud Upsampling Network CVPR 2018 [[paper]]()
+### SpiderCNN Deep Learning on Point Sets with Parameterized Convolutional Filters ECCV 2018 [[paper]]()
+### SO-Net Self-Organizing Network for Point Cloud Analysis CVPR 2018 [[paper]]()
+
+## 2019
+### Modeling Point Clouds with Self-Attention and Gumbel Subset Sampling CVPR 2019 [[paper]]()
+### Linked Dynamic Graph CNN Learning on Point Cloud via Linking Hierarchical Features arXiv 2019 [[paper]](https://arxiv.org/abs/1904.10014)
+"inspired by PointNet and DGCNN"
+### Octree Guided CNN With Spherical Kernels for 3D Point Clouds CVPR 2019 [[paper]]()
+### PointConv Deep Convolutional Networks on 3D Point Clouds CVPR 2019 [[paper]]()
+### PointWeb Enhancing Local Neighborhood Features for Point Cloud Processing CVPR 2019 [[paper]]()
+### Rotation Invariant Convolutions for 3D Point Clouds Deep Learning IEEE IC3DV 2019 [[paper]]()
+### SRINet Learning Strictly Rotation-Invariant Representations for Point Cloud Classification and Segmentation ACM MM 2019 [[paper]]()
+### Structural Relational Reasoning of Point Clouds CVPR 2019 [[paper]]()
+
+## 2020
+### PointASNL Robust Point Clouds Processing Using Nonlocal Neural Networks with Adaptive Sampling CVPR 2020 [[paper]]() [[TensorFlow code]](https://github.com/yanx27/PointASNL)
+### PointContrast Unsupervised Pre-training for 3D Point Cloud Understanding ECCV 2020 [[paper]]()
