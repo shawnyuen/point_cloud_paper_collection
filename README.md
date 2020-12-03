@@ -30,3 +30,5 @@
 ## 2020
 ### PointASNL Robust Point Clouds Processing Using Nonlocal Neural Networks with Adaptive Sampling CVPR 2020 [[paper]]() [[TensorFlow code]](https://github.com/yanx27/PointASNL)
 ### PointContrast Unsupervised Pre-training for 3D Point Cloud Understanding ECCV 2020 [[paper]]()
+### Deeper or Wider Networks of Point Clouds with Self-attention arXiv 2020 [[paper]]()
+"SepNet-W15 with input Points, acc is **93.1** on ModelNet40, 15 is the number of self-attention blocks", "SepNet-W15 with input Points+Normals, acc is **93.6** on ModelNet40, 15 is the number of self-attention blocks"
