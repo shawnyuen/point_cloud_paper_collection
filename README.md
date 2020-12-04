@@ -14,7 +14,7 @@
 ### Pointwise Convolutional Neural Networks CVPR 2018 [[paper]]()
 ### PU-Net Point Cloud Upsampling Network CVPR 2018 [[paper]]()
 ### SpiderCNN Deep Learning on Point Sets with Parameterized Convolutional Filters ECCV 2018 [[paper]]()
-### SO-Net Self-Organizing Network for Point Cloud Analysis CVPR 2018 [[paper]]()
+### SO-Net Self-Organizing Network for Point Cloud Analysis CVPR 2018 [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_SO-Net_Self-Organizing_Network_CVPR_2018_paper.html) [[arXiv paper]](https://arxiv.org/abs/1803.04249) [[code]](https://github.com/lijx10/SO-Net)
 
 ## 2019
 ### Modeling Point Clouds with Self-Attention and Gumbel Subset Sampling CVPR 2019 [[paper]]()
