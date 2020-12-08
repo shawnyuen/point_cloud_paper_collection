@@ -1,6 +1,7 @@
 # PointCloudPaperCollection
 
 ## 2017
+### OctNet Learning Deep 3D Representations at High Resolutions CVPR 2017 [[paper]](https://arxiv.org/abs/1611.05009)
 ### PointNet Deep Learning on Point Sets for 3D Classification and Segmentation CVPR 2017 [[arXiv paper]](https://arxiv.org/abs/1612.00593)
 ### PointNet++ Deep Hierarchical Feature Learning on Point Sets in a Metric Space NIPS 2017 [[arXiv paper]](https://arxiv.org/abs/1706.02413)
 
@@ -17,11 +18,12 @@
 ### SO-Net Self-Organizing Network for Point Cloud Analysis CVPR 2018 [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Li_SO-Net_Self-Organizing_Network_CVPR_2018_paper.html) [[arXiv paper]](https://arxiv.org/abs/1803.04249) [[code]](https://github.com/lijx10/SO-Net)
 
 ## 2019
+### KPConv Flexible and Deformable Convolution for Point Clouds ICCV 2019 [[paper]](https://arxiv.org/abs/1904.08889)
 ### Modeling Point Clouds with Self-Attention and Gumbel Subset Sampling CVPR 2019 [[paper]]()
 ### Linked Dynamic Graph CNN Learning on Point Cloud via Linking Hierarchical Features arXiv 2019 [[paper]](https://arxiv.org/abs/1904.10014)
 "inspired by PointNet and DGCNN"
 ### Octree Guided CNN With Spherical Kernels for 3D Point Clouds CVPR 2019 [[paper]]()
-### PointConv Deep Convolutional Networks on 3D Point Clouds CVPR 2019 [[paper]]()
+### PointConv Deep Convolutional Networks on 3D Point Clouds CVPR 2019 [[paper]](https://arxiv.org/abs/1811.07246)
 ### PointWeb Enhancing Local Neighborhood Features for Point Cloud Processing CVPR 2019 [[paper]]()
 ### Rotation Invariant Convolutions for 3D Point Clouds Deep Learning IEEE IC3DV 2019 [[paper]]()
 ### SRINet Learning Strictly Rotation-Invariant Representations for Point Cloud Classification and Segmentation ACM MM 2019 [[paper]]()
