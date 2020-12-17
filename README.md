@@ -6,6 +6,7 @@
 ### PointNet++ Deep Hierarchical Feature Learning on Point Sets in a Metric Space NIPS 2017 [[arXiv paper]](https://arxiv.org/abs/1706.02413)
 
 ## 2018
+### Dynamic Graph CNN for Learning on Point Clouds arXiv 2018 [[paper]]()
 ### Mining Point Cloud Local Structures by Kernel Correlation and Graph Pooling CVPR 2018 [[paper]]()
 ### Monte Carlo Convolution for Learning on Non-uniformly Sampled Point Clouds ACM TOG 2018 [[paper]]()
 ### Local Spectral Graph Convolution for Point Set Feature Learning ECCV 2018 [[paper]]() [[TensorFlow code]](https://github.com/fate3439/LocalSpecGCN)
@@ -35,3 +36,4 @@
 ### FPConv Learning Local Flattening for Point Convolution CVPR 2020
 ### PointASNL Robust Point Clouds Processing Using Nonlocal Neural Networks with Adaptive Sampling CVPR 2020 [[paper]]() [[TensorFlow code]](https://github.com/yanx27/PointASNL)
 ### PointContrast Unsupervised Pre-training for 3D Point Cloud Understanding ECCV 2020 [[paper]]()
+### Point Transformer arXiv 2020 [[paper]]()
