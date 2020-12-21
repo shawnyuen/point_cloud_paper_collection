@@ -37,3 +37,4 @@
 ### PointASNL Robust Point Clouds Processing Using Nonlocal Neural Networks with Adaptive Sampling CVPR 2020 [[paper]]() [[TensorFlow code]](https://github.com/yanx27/PointASNL)
 ### PointContrast Unsupervised Pre-training for 3D Point Cloud Understanding ECCV 2020 [[paper]]()
 ### Point Transformer arXiv 2020 [[paper]]()
+### SegGroup Seg-level Supervision for 3D Instance and Semantic Segmentation arXiv 2020 [[paper]]()
