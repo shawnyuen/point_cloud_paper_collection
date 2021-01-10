@@ -38,3 +38,6 @@
 ### PointContrast Unsupervised Pre-training for 3D Point Cloud Understanding ECCV 2020 [[paper]]()
 ### Point Transformer arXiv 2020 [[paper]]()
 ### SegGroup Seg-level Supervision for 3D Instance and Semantic Segmentation arXiv 2020 [[paper]]()
+
+## 2021
+### Boundary-Aware Geometric Encoding for Semantic Segmentation of Point Clouds AAAI 2021 [[paepr]](https://arxiv.org/abs/2101.02381)
