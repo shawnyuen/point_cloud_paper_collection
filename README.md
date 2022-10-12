@@ -1,4 +1,4 @@
-# PointCloudPaperCollection
+# point_cloud_paper_collection
 
 ## 2017
 ### OctNet Learning Deep 3D Representations at High Resolutions CVPR 2017 [[paper]](https://arxiv.org/abs/1611.05009)
@@ -41,3 +41,6 @@
 
 ## 2021
 ### Boundary-Aware Geometric Encoding for Semantic Segmentation of Point Clouds AAAI 2021 [[paepr]](https://arxiv.org/abs/2101.02381)
+
+## 2022
+### Point Transformer V2 Grouped Vector Attention and Partition-based Pooling NIPS [[paper]](https://arxiv.org/abs/2210.05666)
