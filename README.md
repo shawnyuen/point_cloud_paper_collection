@@ -5,7 +5,7 @@
 
 ## 2021
 ### Boundary-Aware Geometric Encoding for Semantic Segmentation of Point Clouds AAAI 2021 [[paepr]](https://arxiv.org/abs/2101.02381)
-### ### Point-BERT Pre-training 3D Point Cloud Transformers with Masked Point Modeling arXiv 2021 [[paper]](https://arxiv.org/abs/2111.14819) [[code]](https://github.com/lulutang0608/Point-BERT)
+### Point-BERT Pre-training 3D Point Cloud Transformers with Masked Point Modeling arXiv 2021 [[paper]](https://arxiv.org/abs/2111.14819) [[code]](https://github.com/lulutang0608/Point-BERT)
 ### PU-Transformer Point Cloud Upsampling Transformer arXiv 2021
 
 ## 2020
