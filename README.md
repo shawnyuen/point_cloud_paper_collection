@@ -5,6 +5,8 @@
 
 ## 2021
 ### Boundary-Aware Geometric Encoding for Semantic Segmentation of Point Clouds AAAI 2021 [[paepr]](https://arxiv.org/abs/2101.02381)
+### Point Cloud Learning with Transformer arXiv 2021 [[paper]]()
+### Point Transformer ICCV 2021 [[paper]](https://arxiv.org/abs/2012.09164) [[code]](https://github.com/POSTECH-CVLab/point-transformer)
 ### Point-BERT Pre-training 3D Point Cloud Transformers with Masked Point Modeling arXiv 2021 [[paper]](https://arxiv.org/abs/2111.14819) [[code]](https://github.com/lulutang0608/Point-BERT)
 ### PU-Transformer Point Cloud Upsampling Transformer arXiv 2021
 
@@ -12,9 +14,10 @@
 ### Deeper or Wider Networks of Point Clouds with Self-attention arXiv 2020 [[paper]]()
 "SepNet-W15 with input Points, acc is **93.1** on ModelNet40, 15 is the number of self-attention blocks", "SepNet-W15 with input Points+Normals, acc is **93.6** on ModelNet40, 15 is the number of self-attention blocks"
 ### FPConv Learning Local Flattening for Point Convolution CVPR 2020
+### PCT Point Cloud Transformer arXiv 2020 [[paper]](https://arxiv.org/abs/2012.09688)
 ### PointASNL Robust Point Clouds Processing Using Nonlocal Neural Networks with Adaptive Sampling CVPR 2020 [[paper]]() [[TensorFlow code]](https://github.com/yanx27/PointASNL)
 ### PointContrast Unsupervised Pre-training for 3D Point Cloud Understanding ECCV 2020 [[paper]]()
-### Point Transformer arXiv 2020 [[paper]]()
+### Point Transformer arXiv 2020 (Engel et al.) [[paper]](https://arxiv.org/abs/2011.00931)
 ### SegGroup Seg-level Supervision for 3D Instance and Semantic Segmentation arXiv 2020 [[paper]]()
 
 ## 2019
